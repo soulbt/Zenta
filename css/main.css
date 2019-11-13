@@ -1,0 +1,7 @@
+body{
+	background-color:#589fd8;
+	background-image:radial-gradient(ellipse 50% 70% at 50% 0,#2e9cea 20%,#153465);
+	background-attachment:fixed;
+	color:white;
+	font-size:14px;
+}
